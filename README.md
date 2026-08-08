@@ -1,6 +1,6 @@
-# Peng Fei
+# Fanqiang
 
-Hi, I’m Peng Fei, a graduate student at Shenzhen University working around multimodal large models, speech large models, and VLA-style systems.
+Hi, I’m Fanqiang, a graduate student working around multimodal large models, speech large models, and VLA-style systems.
 
 I use this GitHub account as a public notebook for small, runnable research-engineering projects: clean data schemas, transparent evaluation scripts, and prototypes that help me understand model behavior before scaling things up.
 
